@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "ArticleApp.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ArticleApp.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ArticleApp.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArticleApp.DataAccess.dll": {}
+        }
+      },
+      "ArticleApp.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ArticleApp.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArticleApp.Entities.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ArticleApp.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../ArticleApp.DataAccess/ArticleApp.DataAccess.csproj",
+      "msbuildProject": "../ArticleApp.DataAccess/ArticleApp.DataAccess.csproj"
+    },
+    "ArticleApp.Entities/1.0.0": {
+      "type": "project",
+      "path": "../ArticleApp.Entities/ArticleApp.Entities.csproj",
+      "msbuildProject": "../ArticleApp.Entities/ArticleApp.Entities.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "ArticleApp.DataAccess >= 1.0.0",
+      "ArticleApp.Entities >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\samet\\.nuget\\packages\\": {},
@@ -36,7 +74,14 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp\\ArticleApp.DataAccess\\ArticleApp.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp\\ArticleApp.DataAccess\\ArticleApp.DataAccess.csproj"
+            },
+            "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp\\ArticleApp.Entities\\ArticleApp.Entities.csproj": {
+              "projectPath": "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp\\ArticleApp.Entities\\ArticleApp.Entities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
