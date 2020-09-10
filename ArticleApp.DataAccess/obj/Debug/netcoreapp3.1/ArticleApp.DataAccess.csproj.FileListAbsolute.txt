@@ -1,0 +1,4 @@
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.DataAccess\bin\Debug\netcoreapp3.1\ArticleApp.Entities.dll
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.DataAccess\obj\Debug\netcoreapp3.1\ArticleApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.DataAccess\obj\Debug\netcoreapp3.1\ArticleApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.DataAccess\obj\Debug\netcoreapp3.1\ArticleApp.DataAccess.AssemblyInfo.cs
