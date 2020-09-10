@@ -8,9 +8,8 @@ namespace ArticleApp.Business.Abstract
     public interface IWriterService
     {
         List<Writer> GetAll();
-        Writer GetById(int wrID);
         void Add(Writer writer);
-        void Delete(int wrID);
+        void Delete(Writer writer);
         void Update(Writer writer);
     }
 }

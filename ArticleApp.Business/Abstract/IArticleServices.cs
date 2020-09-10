@@ -5,13 +5,13 @@ using System.Text;
 
 namespace ArticleApp.Business.Abstract
 {
-    public interface IProductServices
+    public interface IArticleServices
     {
         List<Article> Search(string search);
         List<Article> GetAll();
         Article GetById(int artID);
         void Add(Article article);
-        void Delete(int artID);
+        void Delete(Article article);
         void Update(Article article);
 
     }
