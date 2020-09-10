@@ -1,0 +1,14 @@
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.Business\bin\Debug\netcoreapp3.1\ArticleApp.Business.deps.json
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.Business\bin\Debug\netcoreapp3.1\ArticleApp.Business.dll
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.Business\bin\Debug\netcoreapp3.1\ArticleApp.Business.pdb
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.Business\bin\Debug\netcoreapp3.1\ArticleApp.DataAccess.dll
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.Business\bin\Debug\netcoreapp3.1\ArticleApp.Entities.dll
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.Business\bin\Debug\netcoreapp3.1\ArticleApp.DataAccess.pdb
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.Business\bin\Debug\netcoreapp3.1\ArticleApp.Entities.pdb
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.Business\obj\Debug\netcoreapp3.1\ArticleApp.Business.csprojAssemblyReference.cache
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.Business\obj\Debug\netcoreapp3.1\ArticleApp.Business.AssemblyInfoInputs.cache
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.Business\obj\Debug\netcoreapp3.1\ArticleApp.Business.AssemblyInfo.cs
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.Business\obj\Debug\netcoreapp3.1\ArticleApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.Business\obj\Debug\netcoreapp3.1\ArticleApp.Business.csproj.CopyComplete
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.Business\obj\Debug\netcoreapp3.1\ArticleApp.Business.dll
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.Business\obj\Debug\netcoreapp3.1\ArticleApp.Business.pdb

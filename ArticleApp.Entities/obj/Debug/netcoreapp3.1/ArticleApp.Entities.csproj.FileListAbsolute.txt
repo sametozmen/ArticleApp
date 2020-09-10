@@ -1,0 +1,9 @@
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.Entities\bin\Debug\netcoreapp3.1\ArticleApp.Entities.deps.json
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.Entities\bin\Debug\netcoreapp3.1\ArticleApp.Entities.dll
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.Entities\bin\Debug\netcoreapp3.1\ArticleApp.Entities.pdb
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.Entities\obj\Debug\netcoreapp3.1\ArticleApp.Entities.csprojAssemblyReference.cache
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.Entities\obj\Debug\netcoreapp3.1\ArticleApp.Entities.AssemblyInfoInputs.cache
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.Entities\obj\Debug\netcoreapp3.1\ArticleApp.Entities.AssemblyInfo.cs
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.Entities\obj\Debug\netcoreapp3.1\ArticleApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.Entities\obj\Debug\netcoreapp3.1\ArticleApp.Entities.dll
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.Entities\obj\Debug\netcoreapp3.1\ArticleApp.Entities.pdb
