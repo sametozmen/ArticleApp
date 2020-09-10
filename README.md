@@ -4,9 +4,13 @@
 Repository Desing Pattern kullandığım ArticleApp projemde mümkün olduğunca kod tekrarından kaçmak ,sorunları en aza indirebilmek için ve kolay değişiklik imkanı olması açısından tercih ettim.
 
 Projede kullanıdığım teknolojiler ; 
+
 -Net Core 
+
 -Entity Framework
+
 -Microsoft SQL Server
+
 -Asp .Net Core Web Api 3.1 
 
 Daha önceki iş ve okul hayatımın çok küçük bir kısmında görmüş olduğum web api ve kendimi geliştirmek istediğimden çalışarak kendime bilgi katmaya çalıştığım .net core teknolojisini birleştirmeye çalıştım.
