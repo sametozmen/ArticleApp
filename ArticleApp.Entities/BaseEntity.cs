@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ArticleApp.Entities
 {
-    public interface IBaseEntity
+    public class BaseEntity
     {
         public int ID { get; set; }
         public DateTime CreatedDate { get; set; }
