@@ -6,7 +6,10 @@ C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.DataAccess\bin\Debu
 C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.DataAccess\bin\Debug\netcoreapp3.1\ArticleApp.DataAccess.dll
 C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.DataAccess\bin\Debug\netcoreapp3.1\ArticleApp.DataAccess.pdb
 C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.DataAccess\bin\Debug\netcoreapp3.1\ArticleApp.Entities.pdb
-C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.DataAccess\obj\Debug\netcoreapp3.1\ArticleApp.DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.DataAccess\obj\Debug\netcoreapp3.1\ArticleApp.DataAccess.csproj.CopyComplete
 C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.DataAccess\obj\Debug\netcoreapp3.1\ArticleApp.DataAccess.dll
 C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.DataAccess\obj\Debug\netcoreapp3.1\ArticleApp.DataAccess.pdb
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.DataAccess\bin\Debug\netcoreapp3.1\ArticleApp.DataAccess.runtimeconfig.json
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.DataAccess\bin\Debug\netcoreapp3.1\ArticleApp.DataAccess.runtimeconfig.dev.json
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.DataAccess\obj\Debug\netcoreapp3.1\ArticleApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\ArticleApp\ArticleApp\ArticleApp.DataAccess\obj\Debug\netcoreapp3.1\ArticleApp.DataAccess.genruntimeconfig.cache
