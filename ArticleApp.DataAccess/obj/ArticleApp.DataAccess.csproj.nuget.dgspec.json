@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp.DataAccess\\ArticleApp.DataAccess.csproj": {}
+    "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp\\ArticleApp.DataAccess\\ArticleApp.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp.DataAccess\\ArticleApp.DataAccess.csproj": {
+    "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp\\ArticleApp.DataAccess\\ArticleApp.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp.DataAccess\\ArticleApp.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp\\ArticleApp.DataAccess\\ArticleApp.DataAccess.csproj",
         "projectName": "ArticleApp.DataAccess",
-        "projectPath": "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp.DataAccess\\ArticleApp.DataAccess.csproj",
+        "projectPath": "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp\\ArticleApp.DataAccess\\ArticleApp.DataAccess.csproj",
         "packagesPath": "C:\\Users\\samet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp\\ArticleApp.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

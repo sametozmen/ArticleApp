@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp.Business\\ArticleApp.Business.csproj": {}
+    "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp\\ArticleApp.Business\\ArticleApp.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp.Business\\ArticleApp.Business.csproj": {
+    "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp\\ArticleApp.Business\\ArticleApp.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp.Business\\ArticleApp.Business.csproj",
+        "projectUniqueName": "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp\\ArticleApp.Business\\ArticleApp.Business.csproj",
         "projectName": "ArticleApp.Business",
-        "projectPath": "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp.Business\\ArticleApp.Business.csproj",
+        "projectPath": "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp\\ArticleApp.Business\\ArticleApp.Business.csproj",
         "packagesPath": "C:\\Users\\samet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp.Business\\obj\\",
+        "outputPath": "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp\\ArticleApp.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

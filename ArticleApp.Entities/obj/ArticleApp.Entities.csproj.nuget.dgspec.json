@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp.Entities\\ArticleApp.Entities.csproj": {}
+    "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp\\ArticleApp.Entities\\ArticleApp.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp.Entities\\ArticleApp.Entities.csproj": {
+    "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp\\ArticleApp.Entities\\ArticleApp.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp.Entities\\ArticleApp.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp\\ArticleApp.Entities\\ArticleApp.Entities.csproj",
         "projectName": "ArticleApp.Entities",
-        "projectPath": "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp.Entities\\ArticleApp.Entities.csproj",
+        "projectPath": "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp\\ArticleApp.Entities\\ArticleApp.Entities.csproj",
         "packagesPath": "C:\\Users\\samet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp.Entities\\obj\\",
+        "outputPath": "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp\\ArticleApp.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

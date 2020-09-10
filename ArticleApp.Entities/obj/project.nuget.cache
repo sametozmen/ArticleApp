@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AT3k5tb0wC1h5/jX+SUxqUKen3JDEkCIrDffFBb38HDGmHdBxORUH+5od280p98OJxqStk8HcANBpeac5zqj/g==",
+  "dgSpecHash": "sMgImMchmWZ9Dv58xiCl4ioR3fs8UjeMMN5qCCBo6HFflEM33ojhxPNjVL7rDnVyvU1qYvEL1lJAQ0jyXwuZpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp.Entities\\ArticleApp.Entities.csproj",
+  "projectFilePath": "C:\\Users\\samet\\source\\repos\\ArticleApp\\ArticleApp\\ArticleApp.Entities\\ArticleApp.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

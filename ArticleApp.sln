@@ -3,13 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArticleApp.Business", "ArticleApp.Business\ArticleApp.Business.csproj", "{FE27BE5E-2FE4-40C8-A437-0C6F2D442B72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArticleApp.Business", "ArticleApp.Business\ArticleApp.Business.csproj", "{FE27BE5E-2FE4-40C8-A437-0C6F2D442B72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArticleApp.DataAccess", "ArticleApp.DataAccess\ArticleApp.DataAccess.csproj", "{2542AB4D-217E-488D-A359-0A262DC77FDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArticleApp.DataAccess", "ArticleApp.DataAccess\ArticleApp.DataAccess.csproj", "{2542AB4D-217E-488D-A359-0A262DC77FDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArticleApp.Entities", "ArticleApp.Entities\ArticleApp.Entities.csproj", "{74FC1011-D3E5-4B23-AC51-38A302621228}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArticleApp.Api", "..\ArticleApp1\ArticleApp.Api\ArticleApp.Api.csproj", "{726942DD-0322-4C47-8CC3-7A7BDB709D3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArticleApp.Entities", "ArticleApp.Entities\ArticleApp.Entities.csproj", "{74FC1011-D3E5-4B23-AC51-38A302621228}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +27,6 @@ Global
 		{74FC1011-D3E5-4B23-AC51-38A302621228}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74FC1011-D3E5-4B23-AC51-38A302621228}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74FC1011-D3E5-4B23-AC51-38A302621228}.Release|Any CPU.Build.0 = Release|Any CPU
-		{726942DD-0322-4C47-8CC3-7A7BDB709D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{726942DD-0322-4C47-8CC3-7A7BDB709D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{726942DD-0322-4C47-8CC3-7A7BDB709D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{726942DD-0322-4C47-8CC3-7A7BDB709D3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
